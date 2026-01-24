@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Map/TeachingLevel.umap",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Blueprint/Fan/BP_Movable.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/MagicCube.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/MagicCuube.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Fan.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Blueprint/Fan/BP_Fan.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/FanController.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Blueprint/Fan/BP_FanController.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Enemy.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/ResetConsole.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Blueprint/Fan/BP_ResetConsole.uasset"
+			]
+		}
+	]
+}
