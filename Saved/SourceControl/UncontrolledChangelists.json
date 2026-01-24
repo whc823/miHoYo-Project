@@ -16,7 +16,12 @@
 				"D:/Toxic Entertainment/miHoYo-Project/Content/Enemy.uasset",
 				"D:/Toxic Entertainment/miHoYo-Project/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
 				"D:/Toxic Entertainment/miHoYo-Project/Content/ResetConsole.uasset",
-				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Blueprint/Fan/BP_ResetConsole.uasset"
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Blueprint/Fan/BP_ResetConsole.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Map/MainLevel.umap",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/Game/Map/TeachingLevel_BuiltData.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
+				"D:/Toxic Entertainment/miHoYo-Project/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
